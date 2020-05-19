@@ -1,0 +1,7 @@
+{
+    "itemGroup.sampleItemGroup": "Test Group",
+    "item.samplemod1.sample_item": "Test Sample Item",
+    "block.samplemod1.sample_block": "Test Sample Block",
+    "block.samplemod1.sample_fluid": "Test Sample Water",
+    "item.samplemod1.sample_fluid_bucket": "Test Sample Water Bucket"
+}

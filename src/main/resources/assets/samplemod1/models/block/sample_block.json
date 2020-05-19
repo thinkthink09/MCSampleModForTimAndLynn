@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "samplemod1:block/sample_block"
+    }
+}
